@@ -1,0 +1,19 @@
+div {
+  color: green;
+}
+
+.my-div {
+  color: blue;
+}
+
+.my-paragraph {
+  font-size: 24px;
+}
+
+#my-title {
+  color: tomato;
+}
+
+#my-div-id {
+  color: peachpuff;
+}

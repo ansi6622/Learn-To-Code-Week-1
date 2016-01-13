@@ -104,10 +104,7 @@ on the same codebase without having to worry about who's doing what in which ord
 - Copy the code under number four.
 - Paste that code into your stylesheet! (BONUS: Where should you paste this?)
 
-##The User wants some changes
-- Change the name of the site
-- Change all the navigation links & Section Headers
-- Embed an image
+
 
 ##Open Your Project in Atom
 
